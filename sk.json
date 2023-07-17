@@ -1,6 +1,6 @@
 {
   "currentVersion":"1.0.0",
-  "forceUpdate":true,
+  "forceUpdate":false,
   "technicalIssue":false,
   "sso":"https://dev-sso.banyuwangikab.go.id",
   "api_smartkampung":"https://smartkampung.id",
