@@ -1,7 +1,7 @@
 {
   "currentVersion":"2.0.0",
   "forceUpdate":false,
-  "technicalIssue":false,
+  "technicalIssue":true,
   "sso":"https://dev-sso.banyuwangikab.go.id",
   "api_smartkampung":"https://smartkampung.id",
   "url":"https://play.google.com/store/apps/details?id=id.smartkampung.app"
